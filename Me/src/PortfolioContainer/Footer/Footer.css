@@ -1,0 +1,17 @@
+.firstContainer-Footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #65687c;
+    min-height: 10vh;
+    font-family: "poppins SemiBold";
+    font-size: 35px;
+}
+
+.thirdContainer-name-space {
+    width: 100px;
+}
+
+.secondContainer-icons a {
+     margin: 25px;
+}
