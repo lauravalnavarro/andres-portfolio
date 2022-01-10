@@ -7,10 +7,10 @@ import ScreenHeading from "../../utilities/ScreenHeading/ScreenHeading";
 import ScrollService from "../../utilities/ScrollService";
 import Animations from "../../utilities/Animations";
 import "./References.css";
-import laura from "../../../src/assets/References-img/Laura.jpg";
-import nestor from "../../../src/assets/References-img/Nestor.jpg";
-import liliana from "../../../src/assets/References-img/Liliana.jpg";
-import shape from "../../../src/assets/References-img/shape-bg.png";
+import laura from "../../assets/References-img/Laura.jpg";
+import nestor from "../../assets/References-img/Nestor.jpg";
+import liliana from "../../assets/References-img/Liliana.jpg";
+import shape from "../../assets/References-img/shape-bg.png";
 
 export default function References(props) {
     let fadeInScreenHandler = (screen) => {

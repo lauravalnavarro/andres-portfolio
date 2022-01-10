@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import imgBack from "../../../src/assets/ContactMe/contact.png";
-import load1  from "../../../src/assets/ContactMe/load2.gif";
+import imgBack from "../../assets/ContactMe/contact.png";
+import load1  from "../../assets/ContactMe/load2.gif";
 import axios from "axios";
 import ScreenHeading from "../../utilities/ScreenHeading/ScreenHeading";
 import { toast } from "react-toastify";
